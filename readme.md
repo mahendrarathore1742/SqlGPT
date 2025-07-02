@@ -11,7 +11,7 @@ library_name: transformers
 pipeline_tag: text2text-generation
 ---
 
-# 🚀 CodeT5-small LoRA fine-tuned on WikiSQL
+# 🚀 SqlGPT LoRA fine-tuned on WikiSQL
 
 This model is a **LoRA fine-tuned version** of [Salesforce/codet5-small](https://huggingface.co/Salesforce/codet5-small) for **natural language to SQL query generation** on the [WikiSQL](https://github.com/salesforce/WikiSQL) dataset.
 
